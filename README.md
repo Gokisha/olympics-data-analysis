@@ -30,3 +30,9 @@ This project analyzes historical data from the Olympic Games to uncover trends, 
 ![Country-wise Olympic Medal Progress](images/Country-wise%20Olympic%20Medal%20Progress.JPG)
 
 *Olympic medal trends by country over the years.*
+
+## Sport Dominance by Country
+
+![Sport Dominance by Country](images/Sport%20Dominance%20by%20Country.JPG)
+
+*Visualization showing which countries dominate in Olympic sports based on medal counts.*
