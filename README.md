@@ -25,3 +25,8 @@ This project analyzes historical data from the Olympic Games to uncover trends, 
 ![Medal Count Bar Chart](images/Total%20medals%20won%20by%20each%20country.JPG)
 
 *This chart displays the total medals won by each country during the Olympics.*
+
+## Olympic Medal Trends by Country
+![Country-wise Olympic Medal Progress](images/Country-wise%20Olympic%20Medal%20Progress.JPG)
+
+*Olympic medal trends by country over the years.*
