@@ -35,4 +35,4 @@ This project analyzes historical data from the Olympic Games to uncover trends, 
 
 ![Sport Dominance by Country](images/Sport%20Dominance%20by%20Country.JPG)
 
-*Visualization showing which countries dominate in Olympic sports based on medal counts.*
+*Countries That Dominate Specific Olympic Sports*
